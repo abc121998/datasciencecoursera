@@ -9,7 +9,7 @@ I selected all variable columns which contained either 'std()','mean()', 'activi
 
   *Subject: participant number
 
-  *Variable: the specific variable being measured
+  *Variable: the name of the specific measurement
 
     -tBodyAcc-XYZ
     -tGravityAcc-XYZ
